@@ -12,8 +12,8 @@ about: Open an issue relating to an enhancement to Impact
 
 ### What is your suggestion?
 
-<!-- e.g. "I would like to see a speed option added to Flight" -->
+adding more items to the auto mining feature
 
 ### Why is it useful?
 
-<!-- e.g. "Flight is slow at the moment, making it no more efficient than just walking" -->
+automining is already a huge leap by far, somehow it mainly focuses on main ores and coal only by this time, it would be more usefull if it can mine Nether Quarts and wood as the same way it does for the others.
